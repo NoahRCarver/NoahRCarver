@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahRCarver
 - 👀 I’m interested in Machine Learning, Autonomous Exploration and Robotics!
-- 📫 How to reach me ...
+- 📫 Reach me at NoahRCarver1@gmail.com
 
 <!---
 NoahRCarver/NoahRCarver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
